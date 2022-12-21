@@ -2,6 +2,6 @@
 """Define a class Square."""
 
 
-def square:
+class square:
     """This is a square"""
     pass
